@@ -12,9 +12,10 @@ The task of the project is to create a data parser that accepts the unique user 
 <!-- USER GUIDE -->
 ## User guide
 
-1. Run the file "parser.py "
-2. In the window that appears, enter the user ID of the online cinema and press Enter
-3. The result of the program will be saved in the file "result.json". The resulting file can be opened by notepad or a browser.
+1. Download the "parser.py";
+2. Run the file "parser.py";
+3. In the window that appears, enter the user ID of the online cinema and press Enter;
+4. The result of the program will be saved in the file "result.json". The resulting file can be opened by notepad or a browser.
 
 
 <!-- PROJECT LOGO -->
@@ -31,7 +32,7 @@ The task of the project is to create a data parser that accepts the unique user 
 <!-- USER GUIDE -->
 ## Руководство пользователя
 
-1. Запустите файл "parser.py"
-2. В появившемся окне введите id пользователя онлайн-кинотеатра и нажмите "Enter"
+1. Скачайте файл "parser.py";
+1. Запустите файл "parser.py";
+2. В появившемся окне введите id пользователя онлайн-кинотеатра и нажмите "Enter";
 3. Результат работы программы будет сохранен в файле "result.json". Полученный файл можно открыть с помощью блокнота или браузера.
-
