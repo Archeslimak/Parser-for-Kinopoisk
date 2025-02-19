@@ -11,27 +11,29 @@ The task of the project is to create a data parser that accepts the unique user 
 
 <!-- GETTING STARTED -->
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- USER GUIDE -->
+## User guide
 
 1. Run the file "parser.py "
 2. In the window that appears, enter the user ID of the online cinema and press Enter
 3. The result of the program will be saved in the file "result.json". The resulting file can be opened by notepad or a browser.
+
 
 <!-- PROJECT LOGO -->
 <br />
-  <h3 align="center">Parser-for-Kinopoisk EN</h3>
+  <h3 align="center">Парсер-для-Кинопоиска RU</h3>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## О проекте
 
-The task of the project is to create a data parser that accepts the unique user ID of the online cinema Kinopoisk and returns data on the titles of the films watched, the date of viewing and the rating set by the user.
+Цель проекта - создание парсера данных, который принимает уникальный идентификатор пользователя онлайн-кинотеатра Кинопоиск и возврашает данные о названиях просмотренных фильмов, дате просмотра и оценке пользователя.
 
 <!-- GETTING STARTED -->
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- USER GUIDE -->
+## Руководство пользователя
 
-1. Run the file "parser.py "
-2. In the window that appears, enter the user ID of the online cinema and press Enter
-3. The result of the program will be saved in the file "result.json". The resulting file can be opened by notepad or a browser.
+1. Запустите файл "parser.py"
+2. В появившемся окне введите id пользователя онлайн-кинотеатра и нажмите "Enter"
+3. Результат работы программы будет сохранен в файле "result.json". Полученный файл можно открыть с помощью блокнота или браузера.
+
