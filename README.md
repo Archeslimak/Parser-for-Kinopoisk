@@ -1,5 +1,3 @@
-<a id="readme-top"></a>
-
 <!-- PROJECT LOGO -->
 <br />
   <h3 align="center">Parser-for-Kinopoisk EN</h3>
